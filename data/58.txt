@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+				Meine Zukunft gestalten
+			
+
+
+
+
+
+			Für das Alter vorsorgen
+		
+
+
+
+
+
+
+
+
+
+
+Übersicht: Zustimmungspflichtige Cookies unter der Bankdomain
+
+
+
+Komfort
+
+
+
+-(Zahl) (Speicherdauer: 90 Tage)
+
+Auf einigen Seiten müssen wir Ihnen einen wichtigen Hinweis geben, bevor wir sie Ihnen vollständig anzeigen können. Das Cookie speichert, dass Sie einen solchen Hinweis gesehen und bestätigt haben, wenn Sie uns Ihre Zustimmung zum Speichern gegeben haben.
+
+
+
+
+_internetneu... (Speicherdauer: unbegrenzt)
+
+Das Cookie wird gesetzt, wenn Sie in unserem Internetangebot die Anwendung "Checkliste" verwenden. Damit die Werte, die Sie darin angeben, nach Ihrem Besuch bei uns nicht verloren gehen, speichern wir sie in diesem Cookie.
+
+
+
+
+Marketing
+
+
+
+wc.trg (Speicherdauer: unbegrenzt)
+
+Das Cookie speichert Angaben über Sie (zum Beispiel, welche Inhalte Sie in unserem Internetangebot betrachtet haben), um Ihnen passende Informationen anzeigen zu können. Wichtig: Diese Angaben werden nicht an Dritte weitergegeben!
+
+
+
+
+Statistik
+
+
+
+pk_ (Speicherdauer: 1 Jahr)
+
+Cookies, die mit "pk_" beginnen, werden von der Software Matomo (vormals Piwik) verwendet. Matomo dient dazu, den Erfolg unserer Internetseiten zu messen, indem zum Beispiel Seitenaufrufe und Besuchsvorgänge gezählt werden. Die mit den Cookies erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden auf einem Server innerhalb der EU gespeichert. Ihre IP-Adresse wird dabei vor ihrer Speicherung anonymisiert, sodass kein Rückschluss mehr auf den einzelnen Nutzer möglich ist. Eine Datenweitergabe an Dritte erfolgt dabei nicht.
+
+
+
+
+com.adobe.reactor.data ElementCookiesMigrated (Speicherdauer: unbegrenzt)
+
+Zur Optimierung der Auslieferung von Statistiklösungen verwenden wir die Software Launch von Adobe. Diese Software hat vor Kurzem den Vorgänger Dynamic Tag Manager desselben Anbieters abgelöst. Um den Datenaustausch zwischen der aktuellen Version und der Vorgängerversion sicherzustellen, wird dieses Cookie gesetzt.
+
+
+
+
+DT..., dt..., rx... (Speicherdauer: 2 Jahre)
+
+Cookies, deren Namen mit "DT", "dt" oder "rx" beginnen, werden von der Software Dynatrace verwendet. Dynatrace wird genutzt, um die Performance von Nutzungsvorgängen (wie etwa die Dauer eines Seitenaufbaus) zu messen und zu überwachen.
+
+
+
+
+
+Stand: Juni 2020
+
+
+
+
+
+
+
+
+
+
+
+
+Drucken
+
+
+
+
+
+

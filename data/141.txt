@@ -1,0 +1,357 @@
+
+
+
+
+
+
+
+				Meine Zukunft gestalten
+			
+
+
+
+
+
+			Für das Alter vorsorgen
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phishing & TrojanerTipps und Hinweise zum Erkennen von Betrugsattacken und zum richtigen Umgang damit
+
+Mit Phishing bezeichnet man den Versuch, über gefälschte Internetseiten, E-Mails oder andere Nachrichten an persönlichen Daten zu gelangen – zum Beispiel zum Online-Banking oder zur Kreditkarte. Oft nutzen die Betrüger dabei Trojaner, d. h. eine Software, die Ihren Computer, Ihr Tablet oder Smartphone bzw. das Betriebssystem angreift. Sobald Sie einen Angriff durch Phishing oder Trojaner vermuten, wenden Sie sich bitte unverzüglich an Ihre Raiffeisenbank Holzkirchen-Otterfing eG und sperren Sie Ihren Zugang zum Online-Banking oder Ihre Kreditkarte. Lesen Sie hier unsere Tipps und Hinweis zum Erkennen und zum Umgang mit Phishing und Trojanern.
+
+
+
+
+
+
+
+So erkennen Sie Phishing-Mails und TrojanerPhishing-Mails
+
+Mit Phishing-Mails versuchen Betrüger, Sie per E-Mail unter falschem Vorwand zu einer Überweisung, zur Angabe Ihrer Zugangsdaten zum Online-Banking oder zur Preisgabe Ihrer Kreditkartendaten zu verleiten. Es gibt viele Varianten – eines haben sie aber alle gemeinsam: Sie nutzen Vorwände, gefälschte Absenderadressen, Webseiten und Eingabemasken, die zum Beispiel einer Banking-Anwendung oder einer vertrauten Händlerseite täuschend ähnlich sehen. Hier einige Beispiele für Inhalte von Phishing-Mails:
+
+Sie werden aufgefordert, Software oder Bankdaten zu aktualisieren.
+Sie werden aufgefordert, aufgrund der "Zweiten EU-Zahlungsdiensterichtlinie (PSD2)", Daten zu ergänzen bzw. abzugleichen.
+Sie werden in einer Phishing-Mail vor Phishing-Mails gewarnt.
+Sie erhalten eine gefälschte Mahnung, zum Beispiel für Ihre Telefonrechnung.
+Sie erhalten eine E-Mail mit einem angehängten Dokument, das Sie prüfen sollen oder mit einem Formular, das Sie ausfüllen sollen, und das ein ungewöhnliches Dateiformat aufweist (.EXE, .SCR, .CMS …).
+Sie werden fälschlich darauf hingewiesen, dass Ihre Kreditkarte oder girocard (Debitkarte) angeblich abgelaufen sei.
+Sie werden aufgefordert, Ihr Passwort zu erneuern.
+Sie sollen Daten für Umfragen oder Gewinnspiele bestätigen.
+
+
+
+
+
+Phishing-Mails im Zusammenhang mit der PSD2
+
+Betrüger geben sich als vermeintliche Drittanbieter im Rahmen der PSD2 aus. Sie fordern die Kunden beispielsweise dazu auf, Daten in ihrem System zu ergänzen bzw. abzugleichen. Auf diese Weise versuchen die Betrüger, an personenbezogene Informationen sowie Zugangsdaten zu kommen.
+
+Mit der am 14. September 2019 wirksam werdenden sogenannten "Zweiten EU-Zahlungsdiensterichtlinie (PSD2)" wird unter anderem Drittanbietern die Möglichkeit gegeben, Ihnen neue Services anzubieten. Eine Ergänzung bzw. ein Abgleich von Daten ist in diesem Zusammenhang keinesfalls notwendig.
+
+
+
+
+
+
+
+
+
+Weitere Informationen zur PSD2
+
+
+
+
+
+
+Vorgehensweise mit Trojanern
+
+Betrüger arbeiten häufig mit schädlicher Software (Malware-Programmen), so genannten "Trojanern". Diese Schadsoftware "überblendet" die Webseite des Online-Bankings mit eigenen Inhalten, die dem tatsächlichen Design der Bank entsprechen. Dort wird zur Eingabe einer TAN oder zur Übermittlung der Mobilfunknummer aufgefordert, zum Beispiel in Verbindung mit der Installation einer Software auf Ihrem Mobiltelefon. In der Annahme, auf der korrekten Online-Banking-Plattform seiner Bank zu sein, gibt der Empfänger dann dort seine Daten ein.
+
+
+
+
+Hotline für Sicherheitsfragen
+
+Unter der folgenden kostenfreien Telefonnummer können Sie sich melden, wenn Sie einen Betrugsverdacht hegen – zum Beispiel einen Fall von Phishing. Ihr Anruf wird täglich in der Zeit von 8 bis 24 Uhr entgegengenommen: 0800 5053 111.
+
+
+
+
+
+Bei Verdacht Kreditkarte sofort sperren
+
+Sollten Sie
+
+Ihre Kreditkartendaten versehentlich preisgegeben haben,
+ungewöhnliches Verhalten Ihres Computers bei der Eingabe von Kartendaten bemerken,
+nicht getätigte Umsätze auf Ihrem Mobiltelefon zur Freigabe angezeigt bekommen,
+in Ihren Kartenumsätzen ungewöhnliche Umsätze bemerken bzw. Umsätze, die Sie nicht getätigt haben,
+
+
+ 
+lassen Sie Ihre Kreditkarte unverzüglich sperren. Rufen Sie die Sperrannahme unter + 49 721 1209 66001  an. Die Sperrannahme ist rund um die Uhr für Sie da.
+
+
+
+
+So schützen Sie Ihren Computer, Ihr Tablet und Smartphone vor Viren & Co.
+
+
+
+Verständlich erklärt: Sicherheit im Internet
+
+
+
+
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen
+
+
+
+
+
+
+VR-NetWorld GmbH (Stand: März 2017)  
+
+
+
+
+So geben Sie Phishing-Attacken keine Chance
+
+
+Pflegen Sie Ihre Software und Ihren Browser regelmäßig mit aktuellen Updates. Als Hilfestellung nutzen Sie hierzu den VR-ComputerCheck, den Sie über den Link unten erreichen. Halten Sie das Betriebssystem Ihres Geräts immer auf dem aktuellen Stand.
+Beziehen Sie Ihre Apps nur aus sicheren und vertrauenswürdigen Quellen, zum Beispiel aus dem iTunes Store oder dem GooglePlay Store. Verwenden Sie stets die aktuelle Version der jeweiligen App.
+Achten Sie auf die Herstellerbezeichnung bei den Apps, zum Beispiel "Fiducia & GAD IT AG" für VR-SecureGo bzw. VR-SecureSIGN.
+Halten Sie Ihre Antivirenprogramme und Ihre Personal Firewall immer auf dem neuesten Stand.
+Klicken Sie keine Links zu Webseiten in Ihren E-Mails an, sondern geben Sie die URLs in Ihren Webbrowser ein.
+Öffnen Sie keine E-Mails, SMS oder Nachrichten von unbekannten Absendern. Klicken Sie niemals auf Links bzw. öffnen Sie keine Anhänge, die in solchen E-Mails, SMS bzw. Nachrichten angeboten werden.
+Banken oder entsprechende Institute fordern Sie niemals auf, Ihre Authentifikationsdaten preiszugeben. Wenn Sie sich unsicher sind, fragen Sie bei Ihrer Raiffeisenbank Holzkirchen-Otterfing eG nach. Aufgrund der PSD2 dürfen Sie Ihre Authentifizierungselemente wie zum Beispiel Online-PIN und -TAN bei einem von Ihnen gewählten Drittanbieter verwenden, also bei Kontoinformationsdiensten, Zahlungsauslösediensten oder sonstigen Drittanbietern. Mit der Zugriffsverwaltung im Online-Banking können Sie sehen, welche Drittanbieter Sie berechtigt haben. Sie können dort auch Zugriffsberechtigungen wieder entziehen. Sofern Sie sonstige Drittanbieter nutzen, empfehlen wir Ihnen, diese sorgfältig auszuwählen.
+
+Auch Ihnen vertraute Online-Händler werden Sie nie per E-Mail zur Eingabe Ihrer Kreditkartendaten auffordern, zum Beispiel unter dem Vorwand eines erforderlichen Datenabgleichs oder der Einführung neuer Sicherheitsverfahren.
+Wenn Sie Zweifel haben, ob die E-Mail, SMS oder Nachricht eines Ihnen vertrauten Dienstleisters wirklich von diesem stammt, rufen Sie dessen Webseite durch direkte Adresseingabe in der URL-Zeile Ihres Browsers auf und nicht durch Anklicken eines Links in der E-Mail bzw. SMS. Schauen Sie dort nach entsprechenden Mitteilungen.
+Achten Sie auch in E-Mails von Ihnen scheinbar vertrauten Absendern auf Rechtschreibfehler und unnatürlich wirkende Formulierungen sowie ausländische Sonderzeichen. Es handelt sich dabei oft um Phishing-Versuche.
+Kontrollieren Sie regelmäßig Ihre Kontoauszüge und informieren Sie bei Unregelmäßigkeiten sofort Ihre kontoführende Bank.
+Sperren Sie Ihren Online-Banking-Zugang bzw. Ihre Kreditkarte sofort, wenn Ihnen etwas verdächtig vorkommt.
+Stellen Sie eine Internetverbindung nur über vertrauenswürdige Netze her, insbesondere bei unbekannten Netzwerken wie zum Beispiel öffentlichen WLANs.
+Geben Sie Passwörter nur unbeobachtet ein.
+Informieren Sie sich über aktuelle Phishing-Angriffe über unsere Seite "Phishing-Warnungen", die Sie über den Link unten erreichen.
+
+
+
+
+
+
+
+
+
+
+Phishing-Warnungen
+
+
+
+
+
+
+VR-ComputerCheck: Computer & Smartphone überprüfen
+
+
+
+
+
+
+Die wichtigste Regel: Mit Genauigkeit und Sorgfalt vorgehen
+
+Eine der wichtigsten Regeln beim Online-Banking und beim Online-Einkauf lautet: Gehen Sie mit Genauigkeit und Sorgfalt vor. Wenn Sie Ihre Angaben auf den Überweisungsformularen und die Inhalte von Bestätigungsnachrichten genau überprüfen, bevor Sie sie bestätigen, erschweren Sie den Betrügern den Erfolg erheblich.
+
+Überprüfen Sie vor Eingabe einer TAN immer die angezeigten Werte im Display Ihres TAN-Generators oder in der empfangenen SMS bzw. in der TAN-App. Weichen diese Werte von denen der Originalrechnung ab, brechen Sie den Vorgang ab.
+Es wird immer die Transaktion ausgeführt, deren Werte im TAN-Generator bzw. im Mobiltelefon erscheinen, und nicht die angezeigte, möglicherweise manipulierte Transaktion auf dem Bildschirm des Computers bzw. Smartphones.
+
+
+
+
+
+Hinweise zu Passwörtern
+
+Passwörter müssen mindestens acht Zeichen lang sein. Sie sollten aus Groß- und Kleinbuchstaben sowie Sonderzeichen bestehen. Verwenden Sie niemals dasselbe Passwort für mehrere Zugänge. Ändern Sie Passwörter in regelmäßigen Abständen.
+
+
+
+
+Hinweise zur Nutzung eines Endgeräts
+
+Ihre Raiffeisenbank Holzkirchen-Otterfing eG möchte Ihnen stets den bestmöglichen Schutz für Ihr Online-Banking bieten. Die TAN-App VR-SecureGo bzw. VR-SecureSIGN verwendet deshalb eine Sicherheitskomponente, durch die Angriffe deutlich erschwert werden. Bitte bedenken Sie, dass wegen eines möglichen Befalls beispielsweise durch einen Trojaner die gleichzeitige Verwendung einer Online-Banking-App wie zum Beispiel der VR-BankingApp und der VR-SecureGo-App bzw. VR-SecureSIGN-App auf dem gleichen Gerät ein höheres Risiko darstellt als die Nutzung zweier verschiedener bzw. voneinander getrennter Geräte beim Online-Banking.
+
+
+
+
+Häufige Fragen zu Phishing & Trojanern
+
+
+
+
+
+Gibt es Phishing nur beim Online-Banking?
+
+
+
+
+Nein. Diese Art des Internetbetrugs kann auch in einem anderen Umfeld stattfinden: Bezahlsysteme (zum Beispiel PayPal), Versandhäuser und Internet-Auktionshäuser sind ebenfalls Ziel von Phishing-Attacken. Um sich wirkungsvoll gegen Phishing zu schützen, ist ein Grundsatz immer zu beachten: Geben Sie niemals Ihre Passwörter für Internetanwendungen (zum Beispiel Online-Banking, Amazon, Ebay etc.) an Dritte weiter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was prüft der VR-ComputerCheck?
+
+
+
+
+Der VR-ComputerCheck der VR-NetWorld GmbH in Zusammenarbeit mit dem Sicherheitsspezialisten Coronic GmbH kann die auf Ihrem Computer installierten Programme und Plugins auf Aktualität und bekannte Sicherheitsprobleme prüfen und Ihnen bei der Behebung von Sicherheitslücken helfen.
+
+
+
+
+
+
+
+
+
+
+
+
+Das könnte Sie auch interessieren
+
+
+
+
+
+Phishing-Warnungen
+
+
+
+
+
+
+VR-ComputerCheck: Computer & Smartphone überprüfen
+
+
+
+
+
+
+PSD2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drucken
+
+
+
+
+
+
+Wir sind gerne für Sie da!
+
+
+
+
+
+
+
+
+
+Telefon
+
+
+08024/6407-0
+
+
+
+Schreiben Sie uns
+
+
+Schreiben Sie uns
+
+
+
+Rückruf
+
+
+Wir rufen Sie zurück
+
+
+
+Termin vereinbaren
+
+
+Online Termin vereinbaren
+
+
+
+Facebook
+
+
+Besuchen Sie uns auf Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service
+
+
+
+Karte und Online-Banking sperren
+
+
+
+
+
+
+

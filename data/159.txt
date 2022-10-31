@@ -1,0 +1,802 @@
+
+
+
+
+
+
+
+				Meine Zukunft gestalten
+			
+
+
+
+
+
+			Für das Alter vorsorgen
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jetzt anfragen
+		
+
+
+
+
+
+
+
+
+
+
+
+
+TAN-App VR-SecureGoTAN jederzeit sicher auf dem Smartphone oder Tablet empfangen
+
+Mit der TAN-App VR-SecureGo empfangen Sie Transaktionsnummern (TAN) jederzeit sicher und bequem auf Ihrem Smartphone oder Tablet. Die TAN-Benachrichtigungen sind vergleichbar mit denen des mobile-TAN-Verfahrens. Sie werden jedoch nicht per SMS versandt, sondern in der VR-SecureGo-App angezeigt. Dazu benötigen Sie lediglich ein Smartphone oder Tablet, auf dem die TAN-App VR-SecureGo installiert ist sowie eine Registrierung in der App und im Online-Banking Ihrer Raiffeisenbank Holzkirchen-Otterfing eG.
+
+
+
+
+
+
+
+Die Vorteile der TAN-App VR-SecureGoVerständlich erklärt: TAN-App VR-SecureGo
+
+
+
+
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen
+
+
+
+
+
+
+Quelle: Fiducia & GAD IT AG (Stand: Februar 2019)
+
+
+
+
+Ihre Vorteile mit der VR-SecureGo-App
+
+
+TAN jederzeit sicher und bequem auf Ihrem Smartphone oder Tablet empfangen
+Gleichzeitige Verwendung der TAN-App VR-SecureGo und der VR-BankingApp auf einem Smartphone oder Tablet möglich
+Automatische Übertragung der TAN aus der VR-SecureGo-App in die VR-BankingApp möglich, sofern beide Apps auf dem gleichen mobilen Gerät installiert sind
+Hohes Sicherheitsniveau durch spezielle App-Härtungsmaßnahmen sowie durch eine gesicherte und verschlüsselte TAN-Übertragung
+Schutz gegen bekannte Angriffsszenarien durch passwortgeschützten App-Zugriff und Verschlüsselung der TAN
+
+
+
+
+
+
+
+
+
+
+
+Jetzt App herunterladen
+
+
+
+
+
+
+Jetzt anfragen
+
+
+
+
+
+
+So nutzen Sie VR-SecureGoSo funktioniert die TAN-App VR-SecureGo
+
+
+Sie führen beispielsweise eine TAN-pflichtige Transaktion im Online-Banking, über HBCI/FinTS oder in der VR-BankingApp durch. Im Online-Banking wird beim Schritt "Eingabe prüfen" automatisch eine VR-SecureGo-TAN angefordert.
+Sie melden sich in der TAN-App VR-SecureGo an. Eine direkte Anmeldung ist auch über das Antippen der Push-Nachricht möglich. Dazu müssen Sie zuvor dem Empfang von Push-Nachrichten zugestimmt haben.
+Bitte prüfen Sie in der TAN-App VR-SecureGo die Transaktionsdaten auf Richtigkeit, wie zum Beispiel den Betrag und die IBAN des Empfängers.
+Wenn Sie die TAN-pflichtige Transaktion aus der VR-BankingApp heraus gestartet haben und die übermittelten Daten in der TAN-App VR-SecureGo richtig sind, klicken Sie bitte auf "An die VR-BankingApp übertragen". Die VR-SecureGo-TAN ist nur für diese Transaktion gültig. Wenn Sie die TAN-pflichtige Transaktion aus dem Online-Banking oder FinTS heraus gestartet und sich anschließend in der TAN-App VR-SecureGo angemeldet haben, wird Ihnen die TAN angezeigt. Sie müssen diese manuell übertragen. Für eine weitere TAN-pflichtige Transaktion klicken Sie bitte auf "TAN-Anzeige aktualisieren".
+Die direkte Übertragung in die VR-BankingApp ist nur möglich, wenn Sie beide Apps auf dem gleichen Smartphone oder Tablet installiert haben. Wenn Sie das browserbasierte Online-Banking oder HBCI/FinTS nutzen, müssen Sie die VR-SecureGo-TAN entsprechend manuell eingeben.
+
+
+
+
+
+
+
+
+
+
+Jetzt App herunterladen
+
+
+
+
+
+
+Jetzt anfragen
+
+
+
+
+
+
+Konditionen
+
+
+
+
+
+monatlich 5 SecureGoTAN    
+
+kostenlos
+jede weitere SecureGo TAN
+0,10 EUR
+
+
+
+
+
+
+Das Entgelt für SecureGo TAN wird nur berechnet, wenn mittels der mobilen TAN ein vom Kunden autorisierter Zahlungsauftrag oder Wertpapierauftrag ausgeführt worden ist.
+
+
+
+
+
+
+
+
+
+Jetzt App herunterladen
+
+
+
+
+
+
+Jetzt anfragen
+
+
+
+
+
+
+So schalten Sie sich freiEinmalige Freischaltung erforderlich
+
+Damit Sie die TAN-App VR-SecureGo nutzen können, müssen Sie sich zunächst einmalig in der App registrieren. Anschließend wird der Versand des Freischaltcodes angestoßen. Nach Erhalt des Freischaltcodes schalten Sie die VR-SecureGo-App frei. Nach erfolgter Freischaltung empfangen Sie die TAN auf Ihrem Smartphone oder Tablet in der VR-SecureGo-App.
+
+
+
+
+
+Bei einem neuen VR-NetKey, bei dem als TAN-Verfahren VR-SecureGo vorgemerkt ist, müssen Sie sich zunächst auch einmalig in der TAN-App VR-SecureGo registrieren. Anschließend wird der Versand des Freischaltcodes angestoßen. Nach Erhalt des Freischaltcodes schalten Sie die VR-SecureGo-App frei. Erst danach können Sie eine TAN für die Änderung der Erst-PIN zum Online-Banking empfangen – beziehungsweise sich mit dem VR-NetKey und der Erst-PIN im Online-Banking oder in der VR-BankingApp anmelden und danach die Änderung der Erst-PIN durchführen.
+
+
+
+
+
+
+
+Kurzbeschreibung Freischaltung mit neuem VR-NetKey (1,7 MB)
+
+
+
+
+
+
+Freischaltung der TAN-App VR-SecureGo im Detail
+
+
+
+
+
+
+
+
+Schritt 1
+
+
+Öffnen Sie die TAN-App VR-SecureGo auf Ihrem Smartphone oder Tablet. Je nach Betriebssystem werden bei der Installation Ihre Zustimmung zum Erhalt von Mitteilungen (Push-Nachricht) und der Zugriff auf die Kamera vorausgesetzt.
+
+
+
+
+Schritt 2
+
+
+
+
+
+
+
+Bitte geben Sie die Bankleitzahl Ihrer Raiffeisenbank Holzkirchen-Otterfing eG und Ihren VR-NetKey ein. Anschließend wird geprüft, ob Ihr eingegebener VR-NetKey bereits aktiv oder neu angelegt ist. Bei einem aktiven VR-NetKey wird Ihnen noch das Eingabefeld für die PIN angezeigt. Nach erfolgreicher Anmeldung öffnet sich nun eine Ansicht, in der Sie Ihr Anmeldekennwort festlegen.
+
+
+
+
+Schritt 3
+
+
+
+
+
+
+
+Ihr Anmeldekennwort muss mindestens einen Großbuchstaben, einen Kleinbuchstaben und eine Ziffer enthalten sowie aus mindestens acht Zeichen bzw. maximal 20 Zeichen bestehen. Innerhalb dieser Mindestanforderungen können Sie auch die verfügbaren Sonderzeichen verwenden.
+
+
+
+
+Schritt 4
+
+
+
+
+
+
+
+Stimmen Sie den Sonderbedingungen zu und tippen Sie auf "App registrieren". Dadurch wird die sicherheitstechnische Bindung zwischen Ihrem Smartphone oder Tablet, der VR-SecureGo-App und Ihrem VR-NetKey hergestellt. Falls Sie an dieser Stelle auf "Abmelden" tippen, bricht der Registrierungsprozess ab und Ihr Anmeldekennwort wird nicht gespeichert. Beim nächsten Aufruf der VR-SecureGo-App müssen Sie dann den gesamten Prozess wiederholen.
+
+
+
+
+Schritt 5
+
+
+Ihren persönlichen Freischaltcode erhalten Sie dann per Post. Danach geben Sie diesen bitte in der VR-SecureGo-App ein. Sie können Ihren Freischaltcode dafür entweder scannen oder manuell eingeben. Hinweis für Nutzer von iOS: Der Scan funktioniert nur, wenn Sie der VR-SecureGo-App Zugriff auf Ihre Kamera erlaubt haben.
+
+
+
+
+Schritt 6
+
+
+
+
+
+
+
+Nachdem Sie Ihren persönlichen Freischaltcode eingegeben haben, können Sie nun die VR-SecureGo-App für TAN-pflichtige Transaktionen nutzen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download TAN-App VR-SecureGo
+
+
+
+
+
+
+
+
+App für iOS herunterladen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+App für Android herunterladen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Einrichtung als bevorzugtes TAN-Verfahren in der VR-BankingApp
+
+
+Wenn Sie die VR-BankingApp mit den Sm@rt-TAN-Verfahren bereits nutzen und die TAN-App VR-SecureGo freigeschaltet haben, können Sie in der VR-BankingApp über die Navigation unter "Einstellungen > Ihre Bank >TAN-Verfahren" VR-SecureGo als bevorzugtes Verfahren auswählen.
+Wenn Sie bereits ein TAN-Verfahren wie zum Beispiel die TAN-App VR-SecureGo oder die Sm@rt-TAN-Verfahren nutzen und anschließend die VR-BankingApp neu installiert haben, wird unter den Einstellungen in der VR-BankingApp das TAN-Verfahren automatisch gesetzt.
+Wenn Sie bereits zwei TAN-Verfahren nutzen, zum Beispiel das Sm@rt-TAN-Verfahren und die TAN-App VR-SecureGo, und anschließend die VR-BankingApp neu installieren, wird Ihnen nach Installation der VR-BankingApp eine Auswahl der TAN-Verfahren angeboten. Sie können dann entscheiden, welches als bevorzugtes TAN-Verfahren eingestellt werden soll.
+
+
+
+
+
+
+
+
+
+
+Jetzt App herunterladen
+
+
+
+
+
+
+Jetzt anfragen
+
+
+
+
+
+
+Häufige Fragen zur TAN-App VR-SecureGo
+
+
+
+
+
+Auf welche Punkte sollte ich beim Passwort achten?
+
+
+
+
+Ihr Passwort muss mindestens acht Zeichen lang sein. Es muss einen Groß- und einen Kleinbuchstaben sowie eine Ziffer enthalten. Sonderzeichen sind erlaubt. Verwenden Sie niemals dasselbe Passwort für mehrere Zugänge. Ändern Sie das Passwort in regelmäßigen Abständen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was ist die Touch ID bzw. der Fingerprint?
+
+
+
+
+Über die "Touch ID" (iOS) bzw. den "Fingerprint" (Android) erfolgt die Anmeldung in der VR-SecureGO-App mittels Fingerabdruck anstatt des bisherigen Anmeldekennworts. Die Nutzung ist derzeit für iPhone- bzw. iPad-Nutzer (ab iPhone 5s / iPad Air2) und unter Android (ab Version 6) möglich. Ihr Anmeldekennwort bzw. Ihr Fingerabdruck wird verschlüsselt ausschließlich auf Ihrem Smartphone bzw. Tablet abgespeichert. Bitte verwenden Sie daher nur Ihren eigenen Fingerabdruck. Bei Verlust Ihres Smartphones oder Ihres Tablets informieren Sie bitte unverzüglich Ihre Raiffeisenbank Holzkirchen-Otterfing eG. Aus Sicherheitsgründen empfehlen wir, die Touch ID bzw. den Fingerprint nicht gleichzeitig für die VR-BankingApp und die TAN-App VR-SecureGO zu nutzen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welche Sicherheitshinweise sollte ich bzgl. der TAN-App VR-SecureGo beachten?
+
+
+
+
+
+Beziehen Sie Ihre Apps nur aus sicheren und vertrauenswürdigen Quellen, zum Beispiel iTunes oder GooglePlay Store.
+Achten Sie auf die Herstellerbezeichnung bei den Apps, zum Beispiel "Fiducia & GAD IT AG" für VR-SecureGo.
+Halten Sie das Betriebssystem Ihres Smartphones bzw. Tablets immer auf dem aktuellen Stand.
+Verwenden Sie stets die aktuelle Version der jeweiligen App.
+Kontrollieren Sie regelmäßig Ihre Kontoauszüge und informieren Sie bei Unregelmäßigkeiten sofort Ihre kontoführende Bank.
+Ihre Raiffeisenbank Holzkirchen-Otterfing eG wird Sie nie per E-Mail zu etwas auffordern, bei dem Sie die Zugangsdaten zu Ihrem Konto eingeben müssten, zum Beispiel für eine Sicherheitsüberprüfung oder für eine Rücküberweisung. Reagieren Sie nicht auf solche E-Mail-Anfragen und löschen Sie diese sofort.
+Sperren Sie Ihren Online-Banking-Zugang sofort, wenn Ihnen etwas verdächtig vorkommt.
+Öffnen Sie keine E-Mails oder SMS unbekannter Herkunft mit Anhängen oder Download-Links.
+Sie können auch mittels Drittanbietern auf Ihr Girokonto zugreifen und diese beauftragen, für Sie Zahlungen auszulösen oder Kontoinformationen abzurufen. Da diese Drittanbieter nunmehr gesetzlich reguliert und beaufsichtigt werden, dürfen Sie Ihre Online-PIN und -TAN bei einem von Ihnen gewählten Drittanbieter verwenden. Sofern Sie Drittanbieter nutzen, empfehlen wir Ihnen, diese sorgfältig auszuwählen.
+Stellen Sie eine Internetverbindung nur über vertrauenswürdige Netze her, insbesondere bei unbekannten Netzwerken wie zum Beispiel öffentlichen WLANs.
+Geben Sie Passwörter nur unbeobachtet ein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kann ich die TAN-App VR-SecureGo und die VR-BankingApp auf einem Gerät nutzen?
+
+
+
+
+Ihre Raiffeisenbank Holzkirchen-Otterfing eG möchte Ihnen stets den bestmöglichen Schutz für Ihr Online-Banking bieten. Die VR-SecureGo-App verwendet deshalb eine Sicherheitskomponente, durch die Angriffe deutlich erschwert werden. Bitte bedenken Sie, dass wegen eines möglichen Befalls beispielsweise durch einen Trojaner die gleichzeitige Verwendung einer Online-Banking-App wie zum Beispiel der VR-BankingApp und der VR-SecureGo-App auf dem gleichen Gerät ein höheres Risiko darstellt als die Nutzung zweier verschiedener bzw. voneinander getrennter Geräte beim Online-Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mit welchen Betriebssystemen kann ich die TAN-App VR-SecureGo nutzen?
+
+
+
+
+Sie können die VR-SecureGo-App mit den Betriebssystemen iOS ab Version 11.0 oder Android ab Version 5.0 nutzen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich habe mehrere VR-NetKeys. Kann ich die VR-SecureGo-App mehrfach installieren?
+
+
+
+
+Mehrfache Installation der VR-SecureGo-App ist nicht erforderlich, da Sie innerhalb dieser App auch weitere VR-NetKeys registrieren können.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was kann ich tun, wenn ich das Anmeldekennwort für die VR-SecureGo-App vergessen habe?
+
+
+
+
+Wenn Sie Ihr Anmeldekennwort für die VR-SecureGo-App vergessen haben, haben Sie folgende Möglichkeiten: 
+
+Wenn Sie das Anmeldekennwort fünfmal falsch eingeben, wird die App auf die Grundeinstellungen zurückgesetzt. Registrieren Sie sich erneut und vergeben Sie ein neues Anmeldekennwort.
+
+Alternativ können Sie die VR-SecureGo-App auch löschen, dann neu installieren und sich erneut registrieren. Im Rahmen der Registrierung können Sie ein neues Anmeldekennwort vergeben. Nach erfolgter Registrierung wird Ihnen der Freischaltcode automatisch per Post zugeschickt. Wir empfehlen Ihnen, vor dem Start der neu installierten VR-SecureGo-App in den App-Einstellungen des Betriebssystems "Alle Daten und Cache löschen" vorzunehmen. Selbstverständlich hilft Ihnen Ihre Raiffeisenbank Holzkirchen-Otterfing eG auch dabei.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich habe die PIN für das Online-Banking vergessen bzw. falsch eingegeben. Was muss ich tun?
+
+
+
+
+Wenn Sie Ihre PIN für das Online-Banking vergessen oder sich bei der Eingabe der PIN mehrfach vertippt haben, setzen Sie sich bitte mit unserer Service-Hotline oder Ihrem Kundenberater in Verbindung. Wir bestellen gern eine neue PIN für Sie.
+Sollten Sie die korrekte PIN noch kennen, können Sie den gesperrten Online-Banking-Zugang auch selbst entsperren. Bitte geben Sie dazu die korrekte PIN für das Online-Banking auf der Login-Seite zum Online-Banking ein. Abschließend bestätigen Sie die Eingabe durch eine TAN, die Sie über das von Ihnen genutzte TAN-Verfahren erhalten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wie kann ich den optionalen Login mittels Touch ID bzw. Fingerabdruck aktivieren?
+
+
+
+
+Die Nutzung der Touch ID bzw. des Fingerabdruckes ist optional und muss von Ihnen selbst in der VR-SecureGo-App unter den Einstellungen aktiviert werden. Mit der Aktivierung des entsprechenden Schalters können Sie die VR-SecureGo-App zukünftig mit dem Fingerabdruck öffnen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ist eine Änderung der Erst-PIN auch über mein Smartphone möglich?
+
+
+
+
+Ja, mit der VR-BankingApp kann auch eine Erst-PIN-Änderung durchgeführt werden. Sie werden direkt nach der Anmeldung in der VR-BankingApp zu dem Bereich weitergeleitet, in dem sich die Erst-PIN ändern lässt. Mit der TAN-App VR-SecureGo ist dies jedoch nicht möglich.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was passiert, wenn ich die TAN-App VR-SecureGo auf einem anderen Gerät über ein Back-up zurücksichere?
+
+
+
+
+Die TAN-App VR-SecureGo ist in diesem Fall nicht einsatzfähig. Sie muss für das andere Gerät neu registriert werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was muss ich tun, wenn ich mein Smartphone gewechselt habe?
+
+
+
+
+Der Prozess bei einem Gerätewechsel und der für die erstmalige Installation bzw. Registrierung sind identisch.
+Bitte beachten Sie, dass die VR-SecureGo-App nur auf einem Gerät aktiv sein kann. Nach Freischaltung der VR-SecureGo-App auf dem neuen Gerät wird die App auf dem bisherigen Gerät deaktiviert.
+
+
+
+
+
+
+Kurzbeschreibung Gerätewechsel (2,1 MB)
+
+
+
+
+
+
+
+
+
+
+
+
+Wie viele Fehlversuche sind bei der Eingabe des Anmeldekennworts möglich?
+
+
+
+
+Es sind maximal fünf Fehlversuche möglich. Nach der fünften Falscheingabe wird die App zurückgesetzt. Dann ist eine Neuregistrierung erforderlich.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was ist zu tun, wenn ich die Meldung erhalte, dass auf meinem Smartphone ein Rooting oder Jailbreak vorhanden ist?
+
+
+
+
+Da die Sicherheitsmaßnahmen Ihres Smartphones außer Kraft gesetzt sind, kann die TAN-App VR-SecureGo aus Sicherheitsgründen nicht mehr genutzt werden. Die Tan-App VR-SecureGo wird in diesem Fall auf Ihrem Smartphone nicht mehr unterstützt. Erst wenn Rooting oder Jailbreak auf Ihrem Smartphone wieder rückgängig gemacht wurden, ist eine Nutzung der TAN-App VR-SecureGo wieder möglich.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich habe einen Freischaltcode bestellt. Warum habe ich diesen immer noch nicht erhalten?
+
+
+
+
+Sobald die Freischaltcode-Bestellung angestoßen wurde, wird der Code erzeugt und in den Postversand gegeben. Auf die Postlaufzeit haben wir leider keinen Einfluss.
+
+
+
+
+
+
+
+
+
+
+
+
+Das könnte Sie auch interessieren
+
+
+
+
+
+VR-BankingApp
+
+
+
+
+
+
+Online-Banking für Privatkunden
+
+
+
+
+
+
+PSD2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drucken
+
+
+
+
+
+
+Wir sind gerne für Sie da!
+
+
+
+
+
+
+
+
+
+Telefon
+
+
+08024/6407-0
+
+
+
+Schreiben Sie uns
+
+
+Schreiben Sie uns
+
+
+
+Rückruf
+
+
+Wir rufen Sie zurück
+
+
+
+Termin vereinbaren
+
+
+Online Termin vereinbaren
+
+
+
+Facebook
+
+
+Besuchen Sie uns auf Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service
+
+
+
+Karte und Online-Banking sperren
+
+
+
+
+
+
+

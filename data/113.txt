@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+				Meine Zukunft gestalten
+			
+
+
+
+
+
+			Für das Alter vorsorgen
+		
+
+
+
+
+
+
+
+
+
+TAN-Verfahren für die VR-BankingAppSm@rt-TAN, mobileTAN und TAN-App
+
+
+ 
+Sm@rt-TAN plus
+Sm@rt-TAN photo
+mobileTAN
+TAN-App VR-SecureGo
+Beschreibung
+Erstellung einer TAN mit einem Lesegerät (TAN-Generator) über blinkende Balken (Flicker-Code) in Ihrem Smartphone- bzw. Tablet-Display
+Erstellung einer TAN mit einem Lesegerät (TAN-Generator) über ein stehendes Bild (Farbmatrix-Code, ähnlich einem QR-Code) in Ihrem Smartphone bzw. Tablet-Display
+TAN wird direkt per SMS auf Ihr Smartphone bzw. Tablet gesendet
+TAN wird auf dem Smartphone oder Tablet in der TAN-App empfangen
+Nutzbarkeit
+
+(Die Darstellung des Flicker-Codes ist für kleine Bildschirme nicht optimiert.)
+
+
+
+(Nutzbar, wenn die Datenübertragung des Flicker-Codes nicht möglich ist, z. B. wegen Reduzierung der Datenmenge)
+
+
+(Nur mit VR-BankingApp HD für iPad möglich)
+
+
+ 
+Vorteile für Ihre Sicherheit und Ihren Komfort
+Erstellung einer individuellen TAN je Vorgang
+
+
+
+
+
+Nutzung zweier voneinander unabhängiger Geräte (Smartphone bzw. Tablet und TAN-Generator)
+
+
+ 
+ 
+Spezielle App-Härtungsmaßnahmen, gesicherte und verschlüsselte TAN-Übertragung, passwortgeschützter Zugriff
+ 
+ 
+ 
+
+Einfacher Abgleich der Daten im Display des TAN-Generators, im SMS-Text oder in der VR-SecureGo-App möglich
+
+
+
+
+Übertragung der Daten über die optische Schnittstelle
+
+
+ 
+ 
+Übertragung der Daten über Bluetooth
+ 
+ 
+ 
+ 
+Gleichzeitige Verwendung der TAN-App und der Banking-App auf einem Gerät
+ 
+ 
+ 
+
+Automatische Übertragung der TAN in die VR-BankingApp
+ 
+ 
+ 
+
+Weitere Informationen
+Mehr zu Sm@rt-TAN plus
+Mehr zu Sm@rt-TAN photo
+Mehr zu mobileTAN
+Mehr zur TAN-App VR-SecureGo
+
+
+
+

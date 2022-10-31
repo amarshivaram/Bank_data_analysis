@@ -1,0 +1,581 @@
+
+
+
+
+
+
+
+				Meine Zukunft gestalten
+			
+
+
+
+
+
+			Für das Alter vorsorgen
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jetzt Termin vereinbaren
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Sm@rt-TAN-VerfahrenBankgeschäfte sicher und komfortabel über unsere Online-Banking-Plattform oder die VR-BankingApp erledigen
+
+Das Verfahren mit Persönlicher Identifikationsnummer (PIN) und Transaktionsnummer (TAN) ist eine bewährte Methode, mit der Sie sich im Online-Banking anmelden bzw. Aufträge erteilen können. Mit den Sm@rt-TAN-Verfahren erledigen Sie Ihre Bankgeschäfte online direkt über unsere Website auf unserer Online-Banking-Plattform oder über die VR-BankingApp. Sie benötigen nur ein spezielles Lesegerät (TAN-Generator).
+
+
+
+
+
+
+
+Online-Banking und VR-BankingApp mit Sm@rt-TAN-VerfahrenSicherheit steht bei uns an erster Stelle
+
+Die Online-Banking-Plattform und die VR-BankingApp sind internetbasiert. Die PIN erhalten Sie per Post. Die individuelle TAN zur Anmeldung im Online-Banking1 bzw. für Vorgänge dort und in der VR-BankingApp generieren Sie mit einem speziellen Lesegerät (TAN-Generator). In dieses geben Sie zum Beispiel die Daten für eine Überweisung entweder manuell ein oder übertragen diese über eine optische Schnittstelle von Ihrem Bildschirm.
+
+
+
+
+Ihre Vorteile mit den Sm@rt-TAN-Verfahren
+
+
+Bankgeschäfte jederzeit – rund um die Uhr und weltweit
+Sichere Verwaltung Ihrer Daten durch moderne Verschlüsselungsverfahren
+Einfache Handhabung durch bewährten TAN-Eingabeprozess
+
+
+
+
+
+Was Sie für das Online-Banking mit den Sm@rt-TAN-Verfahren benötigen
+
+Ihre Bankgeschäfte erledigen Sie online mit Ihrem Browser (Internet Explorer, Mozilla Firefox o. ä.) über ein sicheres Webprotokoll. Das erkennen Sie daran, dass die URL in der Adresszeile Ihres Browsers mit "https" beginnt. Zusätzlich wird jeder Vorgang im Online-Banking durch das bewährte PIN-TAN-Verfahren verschlüsselt. So wird größtmögliche Sicherheit gewährleistet. Sie benötigen
+
+ein persönliches Passwort,
+einen TAN-Generator und
+Ihre girocard (Debitkarte).
+
+
+
+
+
+
+
+
+
+
+Jetzt Termin vereinbaren
+
+
+
+
+
+
+So funktionieren die TAN-VerfahrenSo funktioniert Sm@rt-TAN plus mit der optischen Methode
+
+
+
+
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen
+
+
+
+
+
+
+Quelle: Fiducia & GAD IT AG (Stand: Juli 2016)
+
+
+
+
+
+
+
+Tragen Sie alle notwendigen Daten im Online-Banking ein, zum Beispiel bei einer Überweisung in Ihr Online-Überweisungsformular. Klicken Sie auf "Eingaben prüfen". Je nach Vorgang kann der beschriftete Button auch anders lauten.
+Die sogenannte optische Schnittstelle erscheint: ein schwarz-weiß blinkendes Feld auf Ihrem Monitor.
+Schieben Sie Ihre Bankkarte (Debitkarte) in den TAN-Generator. Drücken Sie die Taste "F". Halten Sie das Gerät schräg vor die animierte Grafik und zwar so, dass die Markierungen (Dreiecke) auf Ihrem TAN-Generator genau auf denen der Grafik liegen. Die Daten werden übertragen. Das Gerät zeigt an, wenn die Übertragung erfolgreich war.
+Prüfen Sie die Angaben auf dem Display des TAN-Generators und bestätigen Sie diese jeweils mit "OK" auf Ihrem Gerät. Hinweis: Überprüfen Sie die Anzeige des TAN-Generators immer anhand der Original-Transaktionsdaten – zum Beispiel auf einer Rechnung.
+Die TAN wird erstellt und erscheint auf dem Display Ihres TAN-Generators. Sie ist nur für diese Transaktion und für wenige Minuten gültig. Geben Sie die TAN in das entsprechende Feld im Online-Banking ein und bestätigen Ihre Überweisung mit "OK".
+
+
+
+
+
+So funktioniert Sm@rt-TAN photo mit der optischen Methode
+
+
+
+
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen
+
+
+
+
+
+
+Quelle: Fiducia & GAD IT AG (Stand: September 2017)
+
+
+
+
+
+
+Tragen Sie alle notwendigen Daten zum Beispiel in Ihr Online-Überweisungsformular im Online-Banking oder in der VR-BankingApp ein. Wählen Sie anschließend "TAN-Eingabe durch Farbcode-Erkennung (Sm@rt-TAN photo)" aus.
+Die sogenannte optische Schnittstelle erscheint: ein stehendes Bild (Farbcode-Grafik, ähnlich eines QR-Codes) auf Ihrem Bildschirm.
+Schieben Sie Ihre Bankkarte (Debitkarte) in den TAN-Generator. Drücken Sie, abhängig vom Typ des TAN-Generators, die Taste "Scan" oder halten Sie den Leser direkt vor den Bildschirm. Halten Sie den TAN-Generator so vor die Farbcode-Grafik, dass der Farbcode in der Anzeige vollständig angezeigt wird. Prüfen Sie die Anzeige auf dem Display Ihres TAN-Generators und drücken Sie "OK".
+Im Display Ihres TAN-Generators werden nun alle wichtigen Daten Ihres Auftrages angezeigt, zum Beispiel die IBAN des Empfängers und der Betrag. Wichtig: Vergleichen Sie Ihre Daten mit denen auf dem Originalbeleg und bestätigen Sie diese jeweils mit "OK".
+Die TAN wird erstellt und erscheint auf dem Display Ihres TAN-Generators. Sie ist nur für diese Transaktion und für wenige Minuten gültig. Geben Sie die TAN in das entsprechende Feld im Online-Banking bzw. in der VR-BankingApp ein und bestätigen Sie Ihren Vorgang mit "OK" bzw. "Ausführen".
+
+
+
+
+
+So funktioniert Sm@rt-TAN plus mit der manuellen Methode
+
+
+Tragen Sie alle notwendigen Daten zum Beispiel in Ihr Online-Überweisungsformular ein. Klicken Sie auf "Eingaben prüfen".
+Wählen Sie "TAN-Eingabe durch manuelle Erfassung" aus.
+Schieben Sie Ihre Bankkarte (Debitkarte) in den TAN-Generator. Je nach TAN-Generator drücken Sie entweder die TAN-Taste oder "Menü" und wählen den Menüpunkt "1 – TAN manuell" aus. Geben Sie den Start-Code, der Ihnen im Online-Banking angezeigt wird, in den TAN-Generator ein und drücken Sie dann auf "OK ".
+Prüfen Sie nun alle wichtigen Daten Ihres Auftrages auf dem Display des TAN-Generators und bestätigen Sie diese jeweils mit "OK" auf Ihrem Gerät. Hinweis: Überprüfen Sie die Anzeige des TAN-Generators beispielsweise bei einer Überweisung immer anhand der Originaldaten – zum Beispiel auf einer Rechnung.
+Geben Sie über das Tastenfeld des TAN-Generators, beispielsweise bei einer Überweisung die mit "x" markierten Stellen der IBAN des Empfängers ein und drücken Sie "OK".
+Die TAN wird erstellt und erscheint auf dem Display Ihres TAN-Generators. Sie ist nur für diese Transaktion und für wenige Minuten gültig. Geben Sie die TAN in das entsprechende Feld im Online-Banking ein und bestätigen Sie Ihre Überweisung mit "OK".
+
+
+
+
+
+
+
+
+
+
+Jetzt Termin vereinbaren
+
+
+
+
+
+
+So funktionieren die TAN-Verfahren beim Online-Banking unterwegsDatenübertragung via Bluetooth
+
+Bei dem TAN-Verfahren Sm@rt-TAN plus ist zusätzlich zur optischen und manuellen auch die Übertragung der Daten via Bluetooth möglich. Damit wird die TAN vom TAN-Leser schnell und direkt in die VR-BankingApp übertragen.
+
+
+
+
+So funktioniert Sm@rt-TAN Bluetooth
+
+
+
+
+
+
+
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen
+
+
+
+
+
+
+Quelle: Fiducia & GAD IT AG (Stand: Juli 2016)
+
+
+
+
+
+
+Tragen Sie alle notwendigen Daten für die Überweisung in der VR-BankingApp ein. Überprüfen Sie Ihre Eingaben und bestätigen Sie diese mit "Fertig" bzw. "Freigeben".
+Nach Klick auf den Button "Fertig" bzw. "Freigeben" öffnet sich die Maske zur TAN-Eingabe. Klicken Sie nun auf "Verbinden", um die Verbindung mit dem TAN-Leser herzustellen.
+Schieben Sie dann bitte Ihre Bankkarte (Debitkarte) in den TAN-Leser. Der TAN-Leser zeigt die Daten der Überweisung noch einmal zur Prüfung an. Mit "OK" bestätigen Sie diese Daten.
+Die TAN wird Ihnen nun angezeigt. Drücken Sie die Taste "OK", um die TAN an die Banking-App zu übertragen. Die erfolgreiche Übertragung zeigt der TAN-Leser mit einer entsprechenden Mitteilung an.
+Mit Klick auf "Fertig" bzw. "Freigeben" erfolgt die Prüfung der TAN in den Banksystemen. Ist die TAN korrekt, wird die Transaktion abgeschlossen.
+
+
+
+
+
+So koppeln Sie Ihr mobiles Endgerät mit dem Bluetooth-TAN-Leser
+
+
+Nach Eingabe und Prüfung eines Auftrags erscheint in der VR-BankingApp zur TAN-Ermittlung die Auswahlmöglichkeit "Bluetooth".
+Nach Auswahl von "Bluetooth" erscheint die Maske zur TAN-Eingabe. Klicken Sie nun auf den Button "Verbinden" und schieben Sie Ihre Bankkarte in den TAN-Leser.
+Wenn der verwendete TAN-Leser noch nicht an Ihr mobiles Endgerät gekoppelt und damit verwendet wurde, startet der Kopplungsvorgang automatisch.
+Beim automatischen Kopplungsvorgang zeigt Ihr mobiles Endgerät den Kopplungscode an. Bitte geben Sie diesen in Ihren Bluetooth-TAN-Leser ein und bestätigen Sie dieses mit "OK".
+Wenn Sie ein anderes oder ein weiteres mobiles Endgerät mit dem TAN-Leser koppeln möchten, wählen Sie bitte im Menü des TAN-Lesers "Bluetooth" > "Kopplung" > "Neu" aus. Alle weiteren Details finden Sie in der Bedienungsanleitung Ihres Bluetooth-TAN-Lesers.
+
+
+
+
+
+
+
+
+
+
+Jetzt Termin vereinbaren
+
+
+
+
+
+
+Konditionen
+
+
+
+
+Dieser Service ist für Sie kostenlos.
+Den Sm@rt TAN Leser können Sie für 14,99 EUR bei uns erwerben.  
+
+
+
+
+
+
+
+
+
+Jetzt Termin vereinbaren
+
+
+
+
+
+
+Häufige Fragen zum Sm@rt-TAN-Verfahren
+
+
+
+
+
+Kann der TAN-Generator von mehreren Personen genutzt werden?
+
+
+
+
+Ja, der TAN-Generator ist nicht personalisiert und kann daher von mehreren Personen genutzt werden. Die benutzerabhängigen Daten stehen auf der girocard (Debitkarte).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Erhalte ich den TAN-Generator auch in den Geschäftsstellen?
+
+
+
+
+In unseren Geschäftsstellen können Sie die TAN-Generatoren erhalten oder diese können dort für Sie bestellt werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Pfeile auf meinem Bildschirm sind zu weit auseinander bzw. zu eng beisammen für mein Kartenlesegerät. Was muss ich tun?
+
+
+
+
+Mit den Buttons "-" bzw. "+" kann das sogenannte Flicker-Feld im Online-Banking oder Ihrer Zahlungsverkehr-Software auf die passende Größe gebracht werden. Diese Einstellung können Sie auch speichern.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warum erhalte ich den Hinweis "TAN falsch"?
+
+
+
+
+Der Hinweis "TAN falsch" kann bei Nutzung der Sm@rt-TAN-Verfahren verschiedene Gründe haben. Zum einen besteht die Möglichkeit, dass Sie sich bei der Eingabe der TAN vertippt haben. Es kann aber auch sein, dass der sogenannte Transaktionszähler auf Ihrer verwendeten Bankkarte (Debitkarte) zu stark von dem Transaktionszähler im Banksystem abweicht. In diesem Fall werden Sie zur Synchronisation der Bankkarte (Debitkarte) aufgefordert. Eine weitere Fehlerursache könnte sein, dass Sie die falsche Bankkarte (Debitkarte) in den TAN-Generator gesteckt haben. D. h. Sie haben entweder die Bankkarte (Debitkarte) einer fremden Bank oder die nicht dem jeweiligen Sm@rt-TAN-Verfahren zugeordnete Bankkarte in den TAN-Generator gesteckt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mit welchen Smartphone-Systemen ist die Bluetooth-Datenübertragung möglich?
+
+
+
+
+Die Datenübertragung via Bluetooth kann aktuell mit der VR-BankingApp für iPhone, iPad und Android genutzt werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welche Voraussetzungen sind für Sm@rt-TAN Bluetooth notwendig?
+
+
+
+
+Voraussetzung für Sm@rt-TAN Bluetooth ist ein bluetooth-fähiger TAN-Leser (HHD 1.4 Standard mit Bluetooth 4LE Funktion) und die Installation der VR-BankingApp auf einem bluetooth-LE-fähigen mobilen Endgerät (mit dem Betriebssystem iOS 11.0 oder neuer bzw. Android ab Version 5.0 oder höher). Bluetooth muss in den Einstellungen des mobilen Endgerätes aktiviert sein. Zudem muss Bluetooth am Lesegerät eingeschaltet sein. Sie können dies am TAN-Leser unter "Menü/Bluetooth" prüfen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welche Unterschiede bestehen zwischen Sm@rt-TAN plus mit der optischen Methode und Sm@rt-TAN photo?
+
+
+
+
+Bei Sm@rt-TAN photo werden im Vergleich zu Sm@rt-TAN plus mit der optischen Methode keine blinkende Balken sondern ein stehendes Bild (Farbmatrix-Code ähnlich eines QR-Code) zur Datenübertragung aus dem Online-Banking bzw. der VR-BankingApp auf den TAN-Generator eingesetzt. Dadurch sind bei Sm@rt-TAN photo keine Größenanpassungen der Grafik oder weitere Einstellungen notwendig.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wie kann ich Sm@rtTAN photo als bevorzugtes TAN-Verfahren festlegen?
+
+
+
+
+Sm@rt-TAN photo wird Ihnen zusätzlich optional angeboten. Im Online-Banking ist als Grundeinstellung Sm@rt-TAN plus bzw. Sm@rt-TAN optic mit der optischen Methode voreingestellt. Unter "Banking > Service > Online-Banking > My eBanking > Bevorzugtes TAN-Verfahren festlegen" können Sie dauerhaft das für Sie präferierte TAN-Verfahren festlegen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kann ich mit meinem bestehenden TAN-Generator auch den Farbcode bei Sm@rt-TAN photo lesen?
+
+
+
+
+Um den Farbmatrix-Code bei Sm@rt-TAN photo lesen zu können, benötigen Sie einen photofähigen TAN-Generator. Herkömmliche TAN-Generatoren können den Farbmatrix-Code nicht lesen. Photofähige TAN-Generatoren können die bisherige Darstellung der blinkenden Balken nicht erkennen, eine Unterstützung der manuellen Methode ist jedoch möglich.
+
+
+
+
+
+
+
+
+
+
+
+
+Das könnte Sie auch interessieren
+
+
+
+
+
+Schutz vor Phishing und Trojanern
+
+
+
+
+
+
+Phishing-Warnungen
+
+
+
+
+
+
+Online-Banking für Privatkunden
+
+
+
+
+
+
+VR-BankingApp
+
+
+
+
+
+
+
+
+In Ausnahmefällen müssen Sie bei der Anmeldung die TAN nur alle 90 Tage eingeben, um damit eine sogenannte starke Kundenauthentifizierung zu gewährleisten. Sprechen Sie uns an und wir schauen gemeinsam, ob eine Ausnahme möglich ist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drucken
+
+
+
+
+
+
+Wir sind gerne für Sie da!
+
+
+
+
+
+
+
+
+
+Telefon
+
+
+08024/6407-0
+
+
+
+Schreiben Sie uns
+
+
+Schreiben Sie uns
+
+
+
+Rückruf
+
+
+Wir rufen Sie zurück
+
+
+
+Termin vereinbaren
+
+
+Online Termin vereinbaren
+
+
+
+Facebook
+
+
+Besuchen Sie uns auf Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service
+
+
+
+Karte und Online-Banking sperren
+
+
+
+
+
+
+

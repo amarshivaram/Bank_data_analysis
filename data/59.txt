@@ -1,0 +1,472 @@
+
+
+
+
+
+
+
+				Meine Zukunft gestalten
+			
+
+
+
+
+
+			Für das Alter vorsorgen
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jetzt anfragen
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Geld abheben mittels SmartphoneMit VR-mobileCash Bargeld am Geldautomaten ohne Debitkarte oder Kreditkarte
+
+Mit VR-mobileCash heben Sie am Geldautomaten einfach, sicher und bequem Geld mit Ihrem Smartphone ab. Ihre Debitkarte oder Kreditkarte benötigen Sie dabei nicht. Wie diese Anwendung funktioniert und wie Sie sich freischalten, lesen Sie hier.
+
+
+
+
+
+
+
+So nutzen Sie VR-mobileCashVerständlich erklärt: Geld abheben mittels Smartphone
+
+
+
+
+
+Ihr Browser kann leider keine eingebetteten Frames anzeigen
+
+
+
+
+
+
+Quelle: VR-NetWorld GmbH (Stand: Juli 2018)
+
+
+
+
+So funktioniert das Geld abheben ohne Debitkarte oder Kreditkarte
+
+
+
+
+
+
+
+
+
+Öffnen Sie die VR-BankingApp auf Ihrem Smartphone und wählen Sie den Menüpunkt "Mobile Auszahlung". Wählen Sie das gewünschte Konto aus. Erfassen Sie den gewünschten Auszahlungsbetrag und gegebenenfalls die Stückelung. Bitte lassen Sie die VR-BankingApp geöffnet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rufen Sie nun am Geldautomaten durch Tippen auf die Schaltfläche die Funktion "Mobile Auszahlung" auf. Der Geldautomat zeigt Ihnen anschließend eine "mTIN" (mobile Transaktions-Identifikations-Nummer) und einen dazugehörigen QR-Code an.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sie können nun entscheiden, ob Sie den QR-Code, der Ihnen am Geldautomaten angezeigt wird, über "QR-Code erfassen" scannen oder die mTIN über "Jetzt mTIN erfassen" manuell in der VR-BankingApp erfassen. Zum Scannen halten Sie bitte Ihr Smartphone mit der Kamera vor den QR-Code. Eine gesonderte App ist dafür nicht notwendig. Zur manuellen Erfassung tippen Sie bitte den Freischaltcode ein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geben Sie nun am Geldautomaten die mPIN (mobile PIN) ein, die Sie nach Freischaltung der Funktion "Mobile Auszahlung" im Online-Banking Ihrer Raiffeisenbank Holzkirchen-Otterfing eG per Post erhalten haben.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Bargeldauszahlung am Geldautomaten erfolgt nun. Bitte entnehmen Sie das Bargeld. Melden Sie sich nun auch von der VR-BankingApp ab und schließen Sie diese.
+
+
+
+
+
+Erstellt mit Bildmaterial der Agentur: va bene publishing GmbH
+
+
+
+
+
+
+
+
+
+Jetzt anfragen
+
+
+
+
+
+
+Einfach freischalten und nutzenSo registrieren Sie sich für VR-mobileCash
+
+Nutzen Sie bereits die Funktion "Kwitt"? Dann müssen Sie Ihre VR-BankingApp nicht erneut registrieren. Den dann geltenden Bestellprozess haben wir ebenfalls hier beschrieben.
+
+
+
+
+
+
+Freischaltung – ohne bisherige Nutzung der Funktion Kwitt
+
+
+
+So registrieren Sie sich für VR-mobileCash
+
+
+
+
+
+
+
+
+Öffnen Sie die VR-BankingApp auf Ihrem Smartphone. Melden Sie sich mit der Bankleitzahl und Ihrem VR-NetKey bzw. Alias und mit Eingabe Ihrer PIN an. Wählen Sie den Menüpunkt "Mobile Auszahlung". Nach erneuter Eingabe Ihrer VR-NetKey-PIN wird Ihnen ein geräte-individueller Code in der VR-BankingApp angezeigt. Dieser gibt Ihnen Auskunft darüber, dass die VR-BankingApp unter der angegebenen App-ID registriert wurde. Bitte lassen Sie die VR-BankingApp geöffnet.
+
+
+
+
+
+
+
+
+
+
+
+Bitte melden Sie sich nun mit Ihrem PC über unsere Internetseite im Online-Banking an. Im Bereich "Banking > Service > Weitere Services > Mobile Auszahlung" wird Ihnen Ihr Smartphone mit der dazugehörigen App-ID angezeigt. Klicken Sie im Kasten "Mobile Auszahlung" auf den Button "Zur Anmeldung". Vergleichen Sie nun die dort angegebene App-ID mit der in Ihrem Smartphone. Durch Bestätigung der Sonderbedingungen für VR-mobileCash und anschließende Eingabe einer TAN schließen Sie die Anmeldung ab.
+
+
+
+
+
+
+
+
+
+
+
+Innerhalb von drei bis vier Werktagen erhalten Sie auf dem Postweg Ihre mobile PIN (mPIN). Der Freischaltcode wird Ihnen als QR-Code oder alphanumerischer Code direkt nach Eingabe der TAN im Bestellprozess im Online-Banking angezeigt.
+
+
+
+
+
+
+
+
+
+
+
+Öffnen Sie bitte mit Ihrem Smartphone den Bereich "Mobile Auszahlung" in der VR-BankingApp. Sie können nun entscheiden, ob Sie den QR-Code, der Ihnen im Bestellprozess im Online-Banking angezeigt wird, scannen oder den alphanumerischen Freischaltcode manuell erfassen. Zum Scannen halten Sie bitte Ihr Smartphone mit der Kamera vor den QR-Code. Eine gesonderte App ist dafür nicht notwendig. Zur manuellen Erfassung tippen Sie bitte den Freischaltcode ein. Nach erfolgreicher Freischaltung erhalten Sie einen entsprechenden Hinweis in der VR-BankingApp. Sobald Sie Ihre mobile PIN per Post erhalten haben, können Sie über VR-mobileCash ohne Karte Geld abheben.
+
+
+
+
+Erstellt mit Bildmaterial der Agentur: va bene publishing GmbH
+
+
+
+
+
+
+
+Freischaltung – mit bisheriger Nutzung der Funktion Kwitt
+
+
+
+So registrieren Sie sich für VR-mobileCash
+
+Wenn Sie bereits die Funktion Kwitt nutzen, können Sie VR-mobileCash ohne erneute Freischaltung im Online-Banking bestellen. Sie müssen Ihre VR-BankingApp in diesem Fall nicht nochmal registrieren.
+
+
+
+
+Bitte melden Sie sich mit Ihrem PC über unsere Internetseite im Online-Banking an. Im Bereich "Banking > Service > Weitere Services > Mobile Auszahlung" wird Ihnen Ihr Smartphone mit der dazugehörigen App-ID angezeigt. Klicken Sie im Kasten "Mobile Auszahlung" auf den Button "Zur Anmeldung". Durch Bestätigung der Sonderbedingungen für VR-mobileCash und anschließende Eingabe einer TAN schließen Sie die Anmeldung ab.
+
+
+
+
+Innerhalb von drei bis vier Werktagen erhalten Sie auf dem Postweg Ihre mobile PIN (mPIN). Damit ist die Freischaltung für VR-mobileCash abgeschlossen. Sie können nun VR-mobileCash nutzen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jetzt anfragen
+
+
+
+
+
+
+Häufige Fragen zum Geld abheben mittels Smartphone
+
+
+
+
+
+Mit welchen Betriebssystem-Versionen funktioniert VR-mobileCash?
+
+
+
+
+Geld abheben mittels Smartphone mit VR-mobileCash funktioniert auf Smartphones mit Android-Betriebssystem ab Version 2.2 und iPhone ab iOS-Version 7.0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich habe mein Smartphone gewechselt bzw. auf Werkseinstellungen zurückgesetzt. Was muss ich tun?
+
+
+
+
+Bitte registrieren Sie die VR-BankingApp erneut. Nach Eingabe des Freischaltcodes ist Geld abheben mittels Smartphone wieder möglich. Die mPIN (mobile PIN) behält weiterhin ihre Gültigkeit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kann ich meine mPIN (mobile PIN) ändern?
+
+
+
+
+Eine Änderung der mPIN ist nicht möglich.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wie kann ich erkennen, dass der Geldautomat über die Funktion "Mobile Auszahlung" verfügt?
+
+
+
+
+Über die Geldautomaten-Suche in der VR-BankingApp können Sie auch die Geldautomaten mit der Funktion "Mobile Auszahlung" finden. Diese sind im Suchergebnis entsprechend gekennzeichnet. Am Geldautomaten selbst erkennen Sie diese Funktion, wenn Sie die "Mobile Auszahlung" durch Tippen auf die Schaltfläche aufrufen können.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kann ich VR-mobileCash auch nutzen, wenn ich noch minderjährig bin?
+
+
+
+
+Minderjährige benötigen für die Registrierung zu VR-mobileCash die Zustimmung ihrer Erziehungsberechtigten bzw. gesetzlichen Vertreter. Bitte wenden Sie sich hierfür an Ihren Bankberater. Nach erfolgreicher Freischaltung durch Ihren Bankberater können Sie sich registrieren, wie im Reiter "So schalten Sie sich frei" beschrieben.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Das könnte Sie auch interessieren
+
+
+
+
+
+VR-BankingApp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drucken
+
+
+
+
+
+
+Wir sind gerne für Sie da!
+
+
+
+
+
+
+
+
+
+Telefon
+
+
+08024/6407-0
+
+
+
+Schreiben Sie uns
+
+
+Schreiben Sie uns
+
+
+
+Rückruf
+
+
+Wir rufen Sie zurück
+
+
+
+Termin vereinbaren
+
+
+Online Termin vereinbaren
+
+
+
+Facebook
+
+
+Besuchen Sie uns auf Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service
+
+
+
+Karte und Online-Banking sperren
+
+
+
+
+
+
+
